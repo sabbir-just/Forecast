@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or experimental workflow in your research, please cite it as below."
+title: "Forecast: Next-Day Estimated PM2.5 Forecasting Across Time and Districts in Dhaka Division, Bangladesh"
+authors:
+  - family-names: "Sabbir"
+    given-names: "Syed Azmul Hasan"
+date-released: 2026-10-17
+url: "https://github.com/sabbir-just/Forecast"
+repository-code: "https://github.com/sabbir-just/Forecast"
+license: MIT
+keywords:
+  - "PM2.5 forecasting"
+  - "air quality"
+  - "Dhaka Division"
+  - "CAMS"
+  - "ERA5"
+  - "spatio-temporal generalization"
+  - "leave-one-district-out"
+  - "machine learning"
