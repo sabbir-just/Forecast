@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment / IDE
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+
+# Pipeline output directories
+pretraining_outputs/
+training_outputs/
+evaluation_outputs/
+revised_experiment_outputs/
+
+# Atomic write temporary files and logs
+*.tmp
+*.log
+
+# Model artifacts and archives
+*.joblib
+*.zip
+
+# Large generated data tables (uncomment if you want to track summary CSVs)
+# *.csv
+# *.parquet
+
+# OS metadata
+.DS_Store
+Thumbs.db
